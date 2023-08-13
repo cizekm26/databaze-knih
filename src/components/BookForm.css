@@ -1,0 +1,8 @@
+.book-form form{
+    width: 50%;
+    transform: translate(50%);
+}
+
+.book-form{
+    text-align: left;
+}

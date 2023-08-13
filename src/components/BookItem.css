@@ -1,0 +1,15 @@
+.book-item{
+    text-align: center;
+}
+
+.book-icon{
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.book-title{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+}
