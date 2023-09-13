@@ -1,1 +1,1 @@
-Webová aplikace umožňující operace CRUD
+Webová aplikace postavená na Reactu, umožňuje operace CRUD
